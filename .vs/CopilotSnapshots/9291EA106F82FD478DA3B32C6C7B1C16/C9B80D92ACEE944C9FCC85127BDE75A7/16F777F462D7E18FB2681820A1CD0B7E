@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik ve Güven Sözleşmesi - Danışmanlık Hizmetleri</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>KVS DANIŞMANLIK LİMİTED ŞİRKETİ</h1>
+                </div>
+                <nav class="nav">
+                    <button class="menu-toggle" aria-label="Menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <ul class="nav-menu">
+                        <li><a href="../index.html">Ana Sayfa</a></li>
+                        <li><a href="../hakkimizda.html">Hakkımızda</a></li>
+                        <li class="dropdown">
+                            <a href="index.html" class="active">Sözleşmeler <span class="arrow">▼</span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="hizmet-sartlari.html">Hizmet Şartları</a></li>
+                                <li><a href="gizlilik-guven.html" class="active">Gizlilik ve Güven Sözleşmesi</a></li>
+                                <li><a href="aydinlatma-metni.html">Aydınlatma Metni ve Veri Korumaya İlişkin Açıklamalar</a></li>
+                                <li><a href="kisisel-veriler.html">Kişisel Verilerin Korunması ve İşlenmesi Politikası</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="../iletisim.html">BİZİMLE İLETİŞİME GEÇİN</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <section class="page-section">
+            <div class="container">
+                <h1>Gizlilik ve Güven Sözleşmesi</h1>
+                
+                <div class="legal-content">
+                    <p class="legal-intro">Bu sayfa içeriği sonradan eklenecektir.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>KVS DANIŞMANLIK LİMİTED ŞİRKETİ</h3>
+                    <p>CEVİZLİ MAH. BAYRAKTAR SK. NO:9 İÇ KAPI NO:5<br>KARTAL/İSTANBUL</p>
+                </div>
+                <div class="footer-section">
+                    <h3>İLETİŞİM</h3>
+                    <p><a href="tel:08503074519">0850 307 4519</a></p>
+                    <p><a href="mailto:info@aracmuayeneal.com">info@aracmuayeneal.com</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 – Tüm hakları saklıdır.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../script.js"></script>
+</body>
+</html>
