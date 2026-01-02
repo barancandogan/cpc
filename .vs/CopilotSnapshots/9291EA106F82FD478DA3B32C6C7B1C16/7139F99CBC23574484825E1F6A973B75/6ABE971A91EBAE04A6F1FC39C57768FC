@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hizmet Şartları - Danışmanlık Hizmetleri</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>KVS DANIŞMANLIK LİMİTED ŞİRKETİ</h1>
+                </div>
+                <nav class="nav">
+                    <button class="menu-toggle" aria-label="Menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <ul class="nav-menu">
+                        <li><a href="index.html">Ana Sayfa</a></li>
+                        <li><a href="hakkimizda.html">Hakkımızda</a></li>
+                        <li class="dropdown">
+                            <a href="index.html" class="active">Sözleşmeler <span class="arrow">▼</span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="hizmet-sartlari.html" class="active">Hizmet Şartları</a></li>
+                                <li><a href="gizlilik-guven.html">Gizlilik ve Güven Sözleşmesi</a></li>
+                                <li><a href="aydinlatma-metni.html">Aydınlatma Metni ve Veri Korumaya İlişkin Açıklamalar</a></li>
+                                <li><a href="kisisel-veriler.html">Kişisel Verilerin Korunması ve İşlenmesi Politikası</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="iletisim.html">BİZİMLE İLETİŞİME GEÇİN</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <section class="page-section">
+            <div class="container">
+                <h1>Hizmet Şartları</h1>
+                
+                <div class="legal-content">
+                    <h2>1. SÖZLEŞMENİN TARAFLARI</h2>
+                    <p>Bu sözleşme, KVS DANIŞMANLIK LİMİTED ŞİRKETİ (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) ile web sitesi üzerinden danışmanlık talebinde bulunan gerçek veya tüzel kişiler (bundan sonra "KULLANICI" olarak anılacaktır) arasında akdedilmiştir. Kullanıcının dijital platform üzerinden onay vermesiyle sözleşme yürürlüğe girer.</p>
+
+                    <h2>2. İLETİŞİM VE TEBLİGAT</h2>
+                    <p>Kullanıcı tarafından kayıt esnasında sisteme girilen e-posta adresi ve cep telefonu numarası, taraflar arasındaki tüm resmi bildirimler ve tebligatlar için geçerli iletişim kanalları olarak kabul edilir.<p>
+                    <p>Şirketimiz aşağıdaki danışmanlık hizmetlerini sunmaktadır:</p>
+                    <ul>
+                        <li>Araç muayene ve denetim hizmetleri</li>
+                        <li>Teknik konsültasyon ve rehberlik</li>
+                        <li>Yasal uyumluluk danışmanlığı</li>
+                        <li>Kalite assurance ve kalite kontrol hizmetleri</li>
+                        <li>Diğer ilgili danışmanlık hizmetleri</li>
+                    </ul>
+
+                    <h2>3. HİZMETİN NİTELİĞİ VE YASAL DURUM</h2>
+                    <p>Hizmetlerimizi kullanan müşteriler aşağıdaki yükümlülüklere tabi tutulmaktadırlar:</p>
+                    <ul>
+                        <li>Bağımsızlık Beyanı: İşletmemiz, Kocaeli Esnaf ve Sanatkarlar Sicil Müdürlüğü’ne kayıtlı, vergi mükellefi özel bir danışmanlık firmasıdır. TÜVTÜRK Taşıt Muayene A.Ş., herhangi bir kamu kurumu veya bunların iştirakleri ile hiçbir resmi bağımız, ortaklığımız veya ticari iş birliğimiz bulunmamaktadır.</li>
+                        <li>Ücretsiz Alternatif: Muayene randevuları, TÜVTÜRK’ün resmi internet sitesi veya çağrı merkezi üzerinden şahsen ve ücretsiz olarak alınabilmektedir.</li>
+                        <li>Danışmanlık Kapsamı: Firmamız; reklam, personel, teknolojik altyapı ve operasyonel maliyetleri üstlenerek, kullanıcıya özel randevu analizi, takibi ve bilgilendirme hizmeti sunan bir danışmanlık kuruluştur. Alınan ücret, randevu alım süreci ve sonrasındaki özel müşteri temsilcisi desteğinin bedelidir.</li>
+                        <li>Borç Sorgulama: Aracın vergi veya ceza borcu olması durumunda resmi sistemler randevu verilmesine izin vermemektedir. Borç durumunun takibi ve kapatılması kullanıcının sorumluluğundadır. Borç nedeniyle randevu alınamaması durumunda kullanıcı bilgilendirilir.</li>
+                        <li>Kapasite ve Yönlendirme: Seçilen istasyon veya saat diliminin dolu olması halinde; hizmetin aksamaması adına randevu, en yakın tarihli boşluğa veya çevre istasyonlara kaydırılarak kullanıcıya bilgi verilir.</li>
+                    </ul>
+
+                    <h2>4. OPERASYONEL SÜREÇLER</h2>
+                    <p>Sunulan hizmetlerin fiyatlandırması her hizmetin niteliğine, kapsamına ve karmaşıklığına göre belirlenmektedir. Fiyatlar, ayrı bir fiyat listesi veya hizmet teklifinde açıklanmaktadır. Ödeme şartları aşağıda belirtilmiştir:</p>
+                    <ul>
+                        <li>Bilgi Doğruluğu: Kullanıcı tarafından beyan edilen plaka ve ruhsat seri numarası doğru varsayılarak işlem yapılır. Hatalı veri girişinden kaynaklanan aksaklıklardan kullanıcı sorumludur; sistem bu durumda kullanıcıyı SMS ile bilgilendirir.</li>
+                        <li>Randevu Kesinleşmesi: Başvuru sonrası gerekli kontroller yapılarak randevu onaylanır. Onay bilgisi kullanıcıya SMS veya e-posta yoluyla iletilir. Ayrıca randevu saatinden 60 dakika önce hatırlatma mesajı gönderilir.</li>
+                        <li>Gecikmeli ödemeler için günlük %0,1 faiz uygulanır</li>
+                        <li>Ödemeler şirketin belirttiği banka hesaplarına yapılmalıdır</li>
+                    </ul>
+
+                    <h2>6. İPTAL, İADE VE İTİRAZ KOŞULLARI</h2>
+                    <p>Paylaşılan bilgiler sadece randevu ve danışmanlık süreçlerinde kullanılır. Şirketimiz kesinlikle kredi kartı bilgilerini veri tabanında saklamaz veya kayıt altına almaz.</p>
+                    <ul>
+                        <li>Sorumluluk Sınırı: Yanlış beyan edilen bilgilerden doğacak zararlarda şirketimizin hukuki mesuliyeti bulunmamaktadır. Şirketimize yönelik kasıtlı zarar verme girişimlerine karşı yasal haklarımız saklıdır.</li>
+                        <li>İade Süreci: Hizmetin sağlanamadığı durumlarda veya mükerrer ödemelerde iade talepleri değerlendirmeye alınır. Ancak randevusu alınmış ve muayene süreci başlamış/tamamlanmış işlemler için ücret iadesi yapılmaz.</li>
+                        <li>İade Yöntemi: Banka süreçlerindeki gecikmeler (1 aya kadar sürebilen iade yansımaları) nedeniyle; tüm geri ödemeler, hızlı sonuçlanması adına kullanıcının ileteceği IBAN numarasına 7 iş günü içinde EFT/Havale yoluyla aktarılır. İade işlemlerinde herhangi bir ek masraf kesilmez.</li>
+          
+                    </ul>
+
+                    <h2>6. SORUMLULUK SINIRI</h2>
+                    <p>Şirket, sunulan hizmetlere bağlı olarak makul çabalar gösterecektir. Ancak, aşağıdaki durumlarda Şirket sorumlu tutulamaz:</p>
+                    <ul>
+                        <li>Müşteri tarafından sağlanan yanlış veya eksik bilgiler nedeniyle oluşan zararlar</li>
+                        <li>Müşterinin hizmet kullanımında yapılan hatalı uygulamalardan kaynaklanan zararlar</li>
+                        <li>Üçüncü şahısların müdahalesi veya sistemlerin kötüye kullanılmasından meydana gelen zararlar</li>
+                        <li>Doğal afetler veya müterakim kuvvetleri tarafından oluşan zararlar</li>
+                        <li>Makul kontrol gücü dışındaki durumlarda oluşan zararlar</li>
+                    </ul>
+
+                    <h2>7. YETKİLİ MAHKEME</h2>
+                    <p>Bu sözleşmeden doğabilecek her türlü uyuşmazlığın çözümünde Türkiye Cumhuriyeti kanunları geçerlidir. İstanbul Kartal (Anadolu) Adliyesi Mahkemeleri ve Tüketici Hakem Heyetleri yetkilidir.</p>
+
+                    <h2>8. KABUL VE ONAY</h2>
+                    <p>Bu platformu kullanmaya devam eden ve ön kayıt oluşturan her kullanıcı, yukarıdaki tüm madde ve koşulları özgür iradesiyle okumuş, anlamış ve kabul etmiş sayılır. Şirketimiz, bu şartları dilediği zaman güncelleme hakkını saklı tutar.</p>
+
+                    <p class="legal-footer"><strong>Son Güncelleme:</strong> 2026</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>KVS DANIŞMANLIK LİMİTED ŞİRKETİ</h3>
+                    <p>CEVİZLİ MAH. BAYRAKTAR SK. NO:9 İÇ KAPI NO:5<br>KARTAL/İSTANBUL</p>
+                </div>
+                <div class="footer-section">
+                    <h3>İLETİŞİM</h3>
+                    <p><a href="tel:08503074519">0850 307 4519</a></p>
+                    <p><a href="mailto:info@aracmuayeneal.com">info@aracmuayeneal.com</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 – Tüm hakları saklıdır.</p>
+            </div>
+        </div>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
